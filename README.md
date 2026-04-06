@@ -22,7 +22,7 @@ This research identifies a **Dynamic Equilibrium** within the lattice structure.
 2. **🏗️ The Existence (Restitution Logic):** The union-closed property functions as a corrective mechanism. For every collision, the property necessitates the existence of a **Restitution Set**—the union of the colliding sets—which balances the scale.
 
 
-![The Collision-Restitution Invariant](Gemini_Generated_Image_d307xpd307xpd307.jpg)
+![The Collision-Restitution Invariant](Gemini_Generated_Image_d307xpd307xpd307.png)
 
 *Figure 1: The Collision-Restitution Invariant. The union-closed property functions as a corrective mechanism to balance the mapping deficit.*
 
