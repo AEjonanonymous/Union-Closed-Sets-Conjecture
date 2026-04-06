@@ -1,3 +1,4 @@
+![Lean 4](https://img.shields.io/badge/Lean_4-Verified-blue?logo=lean&logoColor=white)
 # <p align="center"> ✨ The Reflection Restored ✨<br></p>
 ## <p align="center"> A Machine-Certified Proof of Frankl’s Conjecture via Collision-Restitution Invariants </p>
 
@@ -19,6 +20,11 @@ This research identifies a **Dynamic Equilibrium** within the lattice structure.
 
 1. **💥 The Deficit (Collision Logic):** We formally prove that even when sets collide over a join with $M$, the element $x$ remains structurally protected.
 2. **🏗️ The Existence (Restitution Logic):** The union-closed property functions as a corrective mechanism. For every collision, the property necessitates the existence of a **Restitution Set**—the union of the colliding sets—which balances the scale.
+
+
+![The Collision-Restitution Invariant](Gemini_Generated_Image_d307xpd307xpd307.jpg)
+
+*Figure 1: The Collision-Restitution Invariant. The union-closed property functions as a corrective mechanism to balance the mapping deficit.*
 
 ### ✅ Formal Verification in Lean 4 Web
 By implementing the proof in a formal kernel, we prove that the 0.5 frequency is not a statistical likelihood, but a **Mechanical Necessity** of union-closed systems.
