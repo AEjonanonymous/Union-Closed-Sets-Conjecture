@@ -15,7 +15,7 @@ The **Union-Closed Sets Conjecture** (Frankl’s Conjecture) has remained a cent
 This research identifies a **Dynamic Equilibrium** within the lattice structure. Instead of seeking a static bijection, we establish a structural invariant verified in **Lean 4**. 
 
 1. **💥 The Deficit (Collision Logic):** We formally prove that even when sets collide over a join with $M$, the element $x$ remains structurally protected.
-2. **🛡️ The Existence (Restitution Logic):** The union-closed property functions as a corrective mechanism. For every collision, the property necessitates the existence of a **Restitution Set**—the union of the colliding sets—which balances the scale.
+2. **🏗️ The Existence (Restitution Logic):** The union-closed property functions as a corrective mechanism. For every collision, the property necessitates the existence of a **Restitution Set**—the union of the colliding sets—which balances the scale.
 
 ### ✅ Machine-Certified Structuralism
 By implementing the proof in a formal kernel, we prove that the 0.5 frequency is not a statistical likelihood, but a **Mechanical Necessity** of union-closed systems.
@@ -36,7 +36,7 @@ By implementing the proof in a formal kernel, we prove that the 0.5 frequency is
 ---
 
 ### 📂 Repository Structure
-* 📄 **`The Reflection Restored - A Machine-Certified Proof of Frankl’s Conjecture via Collision-Restitution Invariants.pdf`**: The formal manuscript detailing the lattice symmetry.
+* 📝 **`The Reflection Restored - A Machine-Certified Proof of Frankl’s Conjecture via Collision-Restitution Invariants.pdf`**: The formal manuscript detailing the lattice symmetry.
 * 💻 **`Frankl's_Conjecture_Proof.lean`**: The machine-verifiable source code.
 
 ---
