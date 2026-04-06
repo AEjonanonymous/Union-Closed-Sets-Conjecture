@@ -39,7 +39,7 @@ This proof does not rely on a specific $n$ or a fixed set size. It is a pure ver
 $(\forall s_1, s_2 \in F \implies s_1 \cup s_2 \in F)$
 </p>
 
-### 🏛️ Key Verified Goals:
+### 🏛️ Key Verified Pillars:
 * **`collision_logic`**: Formally proves $x$ is protected during mapping collisions.
 * **`restitution_exists`**: Proves the global existence of the union set within $F$.
 * **`map_stays_in_F`**: Confirms the mapping $f(S) = S \cup M$ remains within the family.
