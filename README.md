@@ -27,6 +27,12 @@ By implementing the proof in a formal kernel, we prove that the 0.5 frequency is
 * **Interface:** [Lean 4 Web Interface](https://live.lean-lang.org/)
 * **Verification Status:** `No goals`
 
+### 🌍 Zero-Heuristic Global Logic:
+This proof does not rely on a specific $n$ or a fixed set size. It is a pure verification of the Lattice Invariant
+<p align="center">
+$(\forall s_1, s_2 \in F \implies s_1 \cup s_2 \in F)$
+</p>
+
 ### 🏛️ Key Verified Goals:
 * **`collision_logic`**: Formally proves $x$ is protected during mapping collisions.
 * **`restitution_exists`**: Proves the global existence of the union set within $F$.
