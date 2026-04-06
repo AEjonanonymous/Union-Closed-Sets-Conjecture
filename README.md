@@ -14,18 +14,18 @@ The **Union-Closed Sets Conjecture** (Frankl’s Conjecture) has remained a cent
 ### 💥🏗️ The Collision-Restitution Invariant
 This research identifies a **Dynamic Equilibrium** within the lattice structure. Instead of seeking a static bijection, we establish a structural invariant verified in **Lean 4**. 
 
+``theorem restitution_exists (F : List (List Nat)) (h_uc : IsUnionClosed F) :
+  ∀ s1 ∈ F, ∀ s2 ∈ F, ∃ s_res ∈ F``
+
 1. **💥 The Deficit (Collision Logic):** We formally prove that even when sets collide over a join with $M$, the element $x$ remains structurally protected.
 2. **🏗️ The Existence (Restitution Logic):** The union-closed property functions as a corrective mechanism. For every collision, the property necessitates the existence of a **Restitution Set**—the union of the colliding sets—which balances the scale.
 
-### ✅ Machine-Certified Structuralism
+### ✅ Formal Verification in Lean 4 Web
 By implementing the proof in a formal kernel, we prove that the 0.5 frequency is not a statistical likelihood, but a **Mechanical Necessity** of union-closed systems.
 
 * **Language:** Lean 4
 * **Interface:** [Lean 4 Web Interface](https://live.lean-lang.org/)
 * **Verification Status:** `No goals`
-
-``theorem restitution_exists (F : List (List Nat)) (h_uc : IsUnionClosed F) :
-  ∀ s1 ∈ F, ∀ s2 ∈ F, ∃ s_res ∈ F``
 
 ### 🏛️ Key Verified Goals:
 * **`collision_logic`**: Formally proves $x$ is protected during mapping collisions.
