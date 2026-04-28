@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "The Reflection Restored - A Machine-Certified Proof of Frankl's Conjecture via Collision-Restitution Invariants"
+version: 1.0.0
+doi: 10.5281/zenodo.19441515
+date-released: 2026-04-06
+url: github.com/AEjonanonymous/Union-Closed-Sets-Conjecture
