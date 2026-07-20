@@ -1,7 +1,8 @@
 import Lake
 open Lake DSL
 
-package "union-closed-sets-conjecture"
+package «UnionClosedSetsConjecture» where
 
 @[default_target]
-lean_lib «Frankl's_Conjecture_Proof»
+lean_lib «UnionClosedSetsConjecture» where
+  srcDir := "."
