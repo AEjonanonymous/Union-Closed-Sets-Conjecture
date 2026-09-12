@@ -1,4 +1,4 @@
-![Lean 4](https://img.shields.io/badge/Lean_4-Verified-blue?logo=lean&logoColor=white)
+![Lean 4 | Comparator](https://img.shields.io/badge/Lean_4_%7C_Comparator-Verified-blue?logo=lean&logoColor=white)
 # <p align="center"> ✨ The Reflection Restored ✨<br></p>
 ## <p align="center"> A Machine-Certified Proof of Frankl’s Conjecture via Collision-Restitution Invariants </p>
 
