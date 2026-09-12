@@ -1,0 +1,11 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "collision_logic",
+    "restitution_exists",
+    "union_has_x",
+    "map_stays_in_F",
+    "partner_has_x"
+  ]
+}
